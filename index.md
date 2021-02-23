@@ -3,4 +3,7 @@
 - [gramophone](/assets/models/gramophone.usdz#applePayButtonType=pay)
 - [teapot](/assets/models/teapot.usdz#applePayButtonType=buy)
 - [toy_biplane](/assets/models/toy_biplane.usdz#applePayButtonType=donate)
-- [toy_drummer](/assets/models/toy_drummer.usdz#applePayButtonType=check-out)
+- [toy_drummer](/assets/models/toy_drummer.usdz#applePayButtonType=buy&checkoutTitle=Biplane%20Toy&checkoutSubtitle=Rustic%20finish%20with%20rotating%20propeller&price=$15)
+
+
+

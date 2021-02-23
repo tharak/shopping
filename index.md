@@ -8,3 +8,7 @@
 <a rel="ar" id="CustomAction" href="/assets/models/fender_stratocaster.usdz#callToAction=guittar&checkoutTitle=Buy%20with%20our%20link&checkoutSubtitle=to%20help%20our%20website!&price=">
     outra guitarra
 </a>
+
+<a rel="ar" id="ApplePay" href="/assets/models/toy_biplane.usdz#applePayButtonType=plain&checkoutTitle=Retro%20Alarm%20Clock&checkoutSubtitle=With%20built-in%20FM%20tuner&price=$92.50">
+    toy_biplane
+</a>

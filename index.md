@@ -1,4 +1,4 @@
-- [guitarra](/assets/models/fender_stratocaster.usdz)
+- [guitarra](/assets/models/fender_stratocaster.usdz#custom=https://tharak.github.io/shopping/banners/fender_stratocaster.html)
 - [chair](/assets/models/chair_swan.usdz)
 - [gramophone](/assets/models/gramophone.usdz)
 - [teapot](/assets/models/teapot.usdz)

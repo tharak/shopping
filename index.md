@@ -1,6 +1,6 @@
 <div>
-    <a rel="ar" href="/assets/models/fender_stratocaster.usdz">
-        <img src="/assets/models/my-model-thumbnail.jpg">
+    <a rel="ar" href="/shopping/assets/models/fender_stratocaster.usdz">
+        <img src="/shopping/assets/models/my-model-thumbnail.jpg">
     </a>
 </div>
 

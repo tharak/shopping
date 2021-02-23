@@ -6,4 +6,6 @@
 - [toy_drummer](/assets/models/toy_drummer.usdz#applePayButtonType=buy&checkoutTitle=Biplane%20Toy&checkoutSubtitle=Rustic%20finish%20with%20rotating%20propeller&price=$15)
 
 
-
+<a rel="ar" id="CustomAction" href="/assets/models/fender_stratocaster.usdz#callToAction=guittar&checkoutTitle=Buy%20with%20our%20link&checkoutSubtitle=to%20help%20our%20website!&price=">
+    <p "outra guitarra">
+</a>

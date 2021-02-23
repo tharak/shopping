@@ -1,3 +1,9 @@
+<div>
+    <a rel="ar" href="/assets/models/my-model.usdz">
+        <img src="/assets/models/my-model-thumbnail.jpg">
+    </a>
+</div>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tharak/shopping/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

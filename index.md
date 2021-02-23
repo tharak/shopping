@@ -29,43 +29,41 @@
 						<a rel="ar" href="/assets/models/toy_drummer.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/drummertoy/drummertoy_2x.jpg" alt="" data-hires-status="pending"></a>
 					</div>
 					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/toy_car.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/toycar/toycar_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/toy_robot_vintage.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/vintagerobot2k/vintagerobot2k_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/fender_stratocaster.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/stratocaster/stratocaster_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/tv_retro.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/retrotv/retrotv_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
 						<a rel="ar" href="/assets/models/gramophone.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/gramophone/gramophone_2x.jpg" alt="" data-hires-status="pending"></a>
 					</div>
 					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/trowel.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/trowel/trowel_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/wateringcan.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/wateringcan/wateringcan_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/wheelbarrow.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/wheelbarrow/wheelbarrow_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
 						<a rel="ar" href="/assets/models/chair_swan.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/redchair/redchair_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/flower_tulip.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/tulip/tulip_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/cup_saucer_set.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/cupandsaucer/cupandsaucer_2x.jpg" alt="" data-hires-status="pending"></a>
-					</div>
-					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/pot_plant.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/plantpot/plantpot_2x.jpg" alt="" data-hires-status="pending"></a>
 					</div>
 					<div class="column large-4 medium-6 small-12 text-center">
 						<a rel="ar" href="/assets/models/teapot.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/teapot/teapot_2x.jpg" alt="" data-hires-status="pending"></a>
 					</div>
 				</div>
 			</div>
+
+
+
+<section class="section section-actions bg-light">
+			<div class="section-content">
+				<div class="row row-header">
+					<div class="column large-centered large-9 medium-10 small-12 text-center">
+						<h2 class="typography-subsection-headline">Examples with Banners</h2>
+						<p>AR&nbsp;Quick&nbsp;Look enables you to add Apple Pay integration or custom actions to engage your users. Experience the power of custom actions in AR&nbsp;Quick&nbsp;Look in our models below.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="column large-4 medium-6 small-12 text-center">
+						<a href="https://applepaydemo.apple.com/ar-quick-look">
+							<figure class="image-example example-clock" data-hires-status="pending"></figure>
+							<span class="block-link icon icon-after icon-external">Apple Pay</span>
+						</a>
+					</div>
+					<div class="column large-4 medium-6 small-12 text-center">
+						<a rel="ar" id="ar-link-2" href="/assets/models/toy_drummer.usdz#callToAction=Browse%20API&amp;checkoutTitle=Kids%20Slide&amp;checkoutSubtitle=Playground%20in%20your%20backyard&amp;price=$145&amp;allowsContentScaling=0"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/kids-slide/kids-slide_2x.png" alt="" data-hires-status="pending"><div class="block-link">Custom Action</div></a>
+					</div>
+					<div class="column large-4 medium-6 small-12 text-center">
+						<a rel="ar" id="ar-link-3" href="/assets/models/toy_drummer.usdz#custom=https://developer.apple.com/augmented-reality/quick-look/models/solar-panels/solar_panels_custom.html?1&amp;customHeight=large&amp;allowsContentScaling=0"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/solar-panels/solar-panels_2x.png" alt="" data-hires-status="pending"><div class="block-link">Custom Banner</div></a>
+					</div>
+				</div>
+			</div>
+		</section>
+

@@ -1,5 +1,5 @@
 <div>
-    <a rel="ar" href="/assets/models/my-model.usdz">
+    <a rel="ar" href="/assets/models/fender_stratocaster.usdz">
         <img src="/assets/models/my-model-thumbnail.jpg">
     </a>
 </div>

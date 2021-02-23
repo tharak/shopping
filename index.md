@@ -23,7 +23,7 @@
 				</div>
 				<div class="row">
 					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" href="/assets/models/toy_biplane.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/biplane/biplane_2x.jpg" alt="" data-hires-status="pending"></a>
+				[guitarra](/assets/models/fender_stratocaster.usdz#custom=https://tharak.github.io/shopping/banners/fender_stratocaster.html)
 					</div>
 					<div class="column large-4 medium-6 small-12 text-center">
 						<a rel="ar" href="/assets/models/toy_drummer.usdz"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/drummertoy/drummertoy_2x.jpg" alt="" data-hires-status="pending"></a>
@@ -58,7 +58,7 @@
 						</a>
 					</div>
 					<div class="column large-4 medium-6 small-12 text-center">
-						<a rel="ar" id="ar-link-2" href="/assets/models/toy_drummer.usdz#callToAction=Browse%20API&amp;checkoutTitle=Kids%20Slide&amp;checkoutSubtitle=Playground%20in%20your%20backyard&amp;price=$145&amp;allowsContentScaling=0"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/kids-slide/kids-slide_2x.png" alt="" data-hires-status="pending"><div class="block-link">Custom Action</div></a>
+						[teapot](/assets/models/toy_drummer.usdz#callToAction=Browse%20API&amp;checkoutTitle=Kids%20Slide&amp;checkoutSubtitle=Playground%20in%20your%20backyard&amp;price=$145&amp;allowsContentScaling=0)
 					</div>
 					<div class="column large-4 medium-6 small-12 text-center">
 						<a rel="ar" id="ar-link-3" href="/assets/models/toy_drummer.usdz#custom=https://developer.apple.com/augmented-reality/quick-look/models/solar-panels/solar_panels_custom.html?1&amp;customHeight=large&amp;allowsContentScaling=0"><img class="image-model" src="https://developer.apple.com/augmented-reality/quick-look/models/solar-panels/solar-panels_2x.png" alt="" data-hires-status="pending"><div class="block-link">Custom Banner</div></a>

@@ -1,8 +1,11 @@
 <div>
     <a rel="ar" href="/shopping/assets/models/fender_stratocaster.usdz">
-    # guitarra
+    guitarra
     </a>
 </div>
+
+[guitarraLink]("/shopping/assets/models/fender_stratocaster.usdz")
+
 
 ## Welcome to GitHub Pages
 

@@ -4,7 +4,7 @@
     </a>
 </div>
 
-[guitarraLink]("/shopping/assets/models/fender_stratocaster.usdz")
+[guitarraLink](/assets/models/fender_stratocaster.usdz)
 
 
 ## Welcome to GitHub Pages

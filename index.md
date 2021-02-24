@@ -13,7 +13,7 @@
 <ul>
   {% for product in site.products %}
     <li>
-      <h2><a href="shopping/assets/models/{{ product.usdz }}">Ver em AR </a></h2>
+      <h2><a href="/assets/models/{{ product.usdz }}">Ver em AR </a></h2>
       <h2><a href="{{ product.link }}">Comprar {{ product.name }}</a></h2>
       <h3>{{ product.description }}</h3>
       <p>{{ product.content | markdownify }}</p>

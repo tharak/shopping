@@ -6,18 +6,15 @@
 - [toy_drummer](/assets/models/toy_drummer.usdz)
 
 
-
-
-<!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-<!-- Use it like any other HTML element -->
 <model-viewer src="https://modelviewer.dev/shared-assets/models/Astronaut.glb" alt="A 3D model of an astronaut" auto-rotate camera-controls></model-viewer>
 [ver em AR](/assets/models/astronauta/astronauta.usdz)
 
 <ul>
   {% for product in site.products %}
     <li>
-      [{{ product.name }}]({{ product.link }})
+      <h2><a href="/assets/models/{{ product.link }}.usdz">Ver em AR {{ product.name }}</a></h2>
+      <h2><a href="{{ product.link }}">Comprar {{ product.name }}</a></h2>
       <h3>{{ product.description }}</h3>
       <p>{{ product.content | markdownify }}</p>
     </li>

@@ -12,7 +12,7 @@
   <tr>
     <td>
     <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-    <model-viewer src="assets/models/{{ product.glb }}" alt="A 3D model of an astronaut" auto-rotate camera-controls></model-viewer>
+    <model-viewer alt="{{ product.description }}" src="assets/models/{{ product.glb }}" ios-src="assets/models/{{ product.usdz }}" magic-leap ar>    
     </td>
     <td><a href="assets/models/{{ product.usdz }}">Ver em AR</a></td>
     <td><a href="{{ product.link }}">Comprar {{ product.name }}</a></td>

@@ -1,0 +1,80 @@
+
+<!--
+    Example of custom banner supporting the three available customHeights
+-->
+<html lang="en">
+<head>
+<meta name="viewport" content="maximum-scale=1, minimum-scale=1, initial-scale=1" />
+
+<style type="text/css">
+    div {
+        font-family: Futura;
+        color: #FFF;
+    }
+    #wrapper {
+        padding: 2px 15px;
+    }
+    #medium, #large {
+        color: #CCC;
+        display: none;
+        font-size: 13pt;
+    }
+    /* Adjustments for medium customHeight banner */
+    @media only screen and (min-height: 121px) {
+        #wrapper {
+            padding: 15px;
+        }
+        #medium {
+            padding-top: 10px;
+            display: block;
+        }
+    }
+    /* Adjustments for large customHeight banner */
+    @media only screen and (min-height: 161px) {
+        #wrapper {
+            padding: 18px;
+        }
+        #medium {
+            padding-top: 15px;
+        }
+        #large {
+            display: block;
+        }
+    }
+    /* Adjustments for devices with smaller widths */
+    @media only screen and (max-width: 363px and min-height: 121px) {
+        #wrapper {
+            padding: 2px 10px;
+        }
+    }
+    @media only screen and (max-width: 414px) {
+        div {
+            letter-spacing: -1px;
+        }
+    }
+</style>
+</head>
+
+<body style="margin: 0px; background-color: rgb(38, 38, 38); overflow: hidden;">
+    <div id="wrapper" style="align-items: center; box-sizing: border-box; display: inline-flex; flex-direction: row; text-align: left; width: 100%;">
+        <div style="margin-right: 0px; display: flex; flex-direction: column; flex: 1 1 0%;">
+            <div style="font-size: 18pt; font-weight: bold;">Stuck on something?</div>
+            <div style="font-size: 16pt;">Browse our documentation</span></div>
+            <div id="medium">Code: 10,000LOC &bull; 50 files &bull; ? bugs</div>
+            <div id="large">Fix your bug today!</div>
+        </div>
+
+        <div style="align-items: center; display: inline-flex; margin: 10px 0px 5px -100px;">
+            <img id="chat">
+                <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+                  <g fill="none" fill-rule="evenodd">
+                    <path fill="#888" d="M29.3180195,3.31801948 L41.6819805,15.6819805 C42.5258942,16.5258942 43,17.6704868 43,18.863961 L43,43.5 C43,45.9852814 40.9852814,48 38.5,48 L11.5,48 C9.01471863,48 7,45.9852814 7,43.5 L7,6.5 C7,4.01471863 9.01471863,2 11.5,2 L26.136039,2 C27.3295132,2 28.4741058,2.47410578 29.3180195,3.31801948 Z M24,5 L11.5,5 C10.6715729,5 10,5.67157288 10,6.5 L10,43.5 C10,44.3284271 10.6715729,45 11.5,45 L38.5,45 C39.3284271,45 40,44.3284271 40,43.5 L40,21 L28.5,21 C26.0147186,21 24,18.9852814 24,16.5 L24,5 Z M39.7573593,18 L27,5.24264069 L27,16.5 C27,17.3284271 27.6715729,18 28.5,18 L39.7573593,18 Z"/>
+                    <rect width="20" height="2.998" x="15" y="37" fill="#888" rx="1.499"/>
+                    <rect width="20" height="2.998" x="15" y="30" fill="#888" rx="1.499"/>
+                  </g>
+                </svg>
+            </img>
+        </div>
+    </div>
+</body>
+</html>

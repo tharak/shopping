@@ -13,3 +13,13 @@
 <!-- Use it like any other HTML element -->
 <model-viewer src="https://modelviewer.dev/shared-assets/models/Astronaut.glb" alt="A 3D model of an astronaut" auto-rotate camera-controls></model-viewer>
 [ver em AR](/assets/models/astronauta/astronauta.usdz)
+
+<ul>
+  {% for product in site.products %}
+    <li>
+      [{{ product.name }}]({{ product.link }})
+      <h3>{{ product.description }}</h3>
+      <p>{{ product.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

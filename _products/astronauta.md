@@ -4,5 +4,5 @@ description: an astronaut made in 3d
 usdz: autronauta/astronaut.usdz
 glb: autronauta/Astronaut.glb
 link: https://modelviewer.dev/
-banner: https://tharak.github.io/shopping/banners/fender_stratocaster.html
+banner: fender_stratocaster.html
 ---

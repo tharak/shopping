@@ -1,11 +1,6 @@
-- [guitarra](/assets/models/fender_stratocaster.usdz)
-- [chair](/assets/models/chair_swan.usdz)
-- [gramophone](/assets/models/gramophone.usdz)
-- [teapot](/assets/models/teapot.usdz)
-- [toy_biplane](/assets/models/toy_biplane.usdz)
-- [toy_drummer](/assets/models/toy_drummer.usdz)
-
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+<h2>Use nossos links e ajude o site!<h2>
 
 <table>
   {% for product in site.products %}

@@ -17,7 +17,6 @@
     <td><a href="assets/models/{{ product.usdz }}">Ver em AR</a></td>
     <td><a href="{{ product.link }}">Comprar {{ product.name }}</a></td>
     <td>{{ product.description }}</td>
-    <td><p>{{ product.content | markdownify }}</p></td>
   </tr>
   {% endfor %}
 </table>

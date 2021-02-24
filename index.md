@@ -5,7 +5,7 @@
 <table>
   {% for product in site.products %}
   <tr>
-    <td><model-viewer alt="{{ product.description }}" src="assets/models/{{ product.glb }}" ios-src="assets/models/{{ product.usdz }}#custom={{ product.banner }}" auto-rotate camera-controls magic-leap ar /></td>
+    <td><model-viewer alt="{{ product.description }}" src="assets/models/{{ product.glb }}" ios-src="assets/models/{{ product.usdz }}#custom=https://tharak.github.io/shopping/banners/{{ product.banner }}" auto-rotate camera-controls magic-leap ar /></td>
     <td><a href="{{ product.link }}">Comprar {{ product.name }}</a></td>
     <td>{{ product.description }}</td>
   </tr>

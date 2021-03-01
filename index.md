@@ -8,6 +8,5 @@
     <tr><td><model-viewer alt="{{ product.description }}" src="assets/models/{{ product.glb }}" ios-src="assets/models/{{ product.usdz }}#custom=https://tharak.github.io/shopping/banners/{{ product.banner }}" auto-rotate camera-controls magic-leap ar /></td></tr>
     <tr><td><a href="{{ product.link }}">Comprar {{ product.name }}</a></td></tr>
     <tr><td>{{ product.description }}</td></tr>
-    <tr><td></td>
   </table>
   {% endfor %}

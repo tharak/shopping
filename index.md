@@ -1,7 +1,5 @@
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<h2>Use nossos links e ajude o site!<h2>
-
 <table style="width:100%">
   {% for product in site.products %}
   <tr>

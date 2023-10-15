@@ -9,14 +9,4 @@
       </a></td>
   </tr>
   {% endfor %}
-
-  <tr>
-    <td><model-viewer alt="A 3D model of a damaged helmet" src="https://modelviewer.dev/shared-assets/models/glTF-Sample-Models/2.0/DamagedHelmet/glTF/DamagedHelmet.gltf" ios-src="assets/models/{{ product.usdz }}" auto-rotate camera-controls magic-leap ar /></td>
-    <td><a href="www.google.com"> 
-      <i class="material-icons" style="font-size:60px;color:lightblue;text-shadow:2px 2px 4px #000000;">shopping_cart</i>
-      </a></td>
-  </tr>
-
-
-  
 </table>
